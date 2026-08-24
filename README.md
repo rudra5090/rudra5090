@@ -102,6 +102,14 @@ A growing collection of coding-problem solutions for improving algorithms, data 
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rudra5090/rudra5090/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>
+
+---
+
 ## 📈 GitHub Analytics
 
 <p align="center">
