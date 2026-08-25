@@ -2,22 +2,20 @@
 
 # 👋 Hi, I'm Rudranarayan Debata
 
-### `AI/ML` • `Computer Vision` • `Cloud` • `Full-Stack`
+### AI/ML • Computer Vision • Cloud • Full-Stack
 
 **I build practical software, experiment with AI, and turn ideas into working systems.**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=AI%2FML+Developer+in+progress;Computer+Vision+%7C+YOLO11;Cloud+%7C+AWS+%7C+Google+Cloud;MERN+Stack+%7C+Full-Stack+Development;DSA+%7C+Problem+Solving+%7C+LeetCode" alt="Typing introduction" />
 
-<p>
-  <a href="https://github.com/rudra5090"><img src="https://img.shields.io/badge/GitHub-rudra5090-181717?style=flat-square&logo=github" /></a>
-  <img src="https://komarev.com/ghpvc/?username=rudra5090&style=flat-square&color=58A6FF" alt="Profile views" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-rudra5090-181717?style=flat-square&logo=github)](https://github.com/rudra5090)
+![Profile views](https://komarev.com/ghpvc/?username=rudra5090&style=flat-square&color=58A6FF)
 
 </div>
 
 ---
 
-## 🧭 My Developer Focus
+## 🧭 Developer Focus
 
 ```text
 AI / ML            ███████████████████░  90%
@@ -28,9 +26,7 @@ Full-Stack         █████████████░░░░░░░ 
 DSA                ███████████████░░░░░  75%
 ```
 
-> **My approach:** Learn → Build → Break → Debug → Improve → Ship.
-
----
+> **Learn → Build → Break → Debug → Improve → Ship.**
 
 ## ⚡ About Me
 
@@ -45,69 +41,22 @@ I'm a Computer Science Engineering student focused on building projects that con
 
 ---
 
-## 🦺 Internship Highlight — JSL | AI/ML
+## 🦺 Featured Project — Worker Safety AI
 
-### AI-Based Worker Safety Monitoring Using YOLO11
+Built a computer-vision system for helmet detection using **YOLO11, Python, OpenCV, PyTorch and Ultralytics**.
 
-Built a computer-vision solution for helmet detection and worker safety monitoring using **YOLO11, Python, OpenCV, PyTorch and Ultralytics**.
+**Engineering focus:** dataset preparation • model training • evaluation • inference • reproducible setup
 
-**What I worked on:**
-- Dataset preparation and annotation workflow
-- YOLO11 model training and evaluation
-- Real-time image/video detection
-- Model testing and performance analysis
-- Project documentation and implementation
+[View project →](https://github.com/rudra5090/AI-Based-Worker-Safety-Monitoring-Using-YOLO11)
 
----
+## 🧪 More Featured Work
 
-## 🧪 Featured Work
-
-<table>
-<tr>
-<td width="50%">
-
-### 🦺 Worker Safety AI
-**YOLO11 · Python · OpenCV · PyTorch**
-
-Computer-vision system for detecting safety helmets in real-world scenarios.
-
-<a href="https://github.com/rudra5090/AI-Based-Worker-Safety-Monitoring-Using-YOLO11">↗ View project</a>
-
-</td>
-<td width="50%">
-
-### 🔧 Predictive Maintenance
-**Machine Learning · Python · Data Science**
-
-Predictive system focused on identifying equipment maintenance needs from industrial data.
-
-<a href="https://github.com/rudra5090/predictive-maintenance-system">↗ View project</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 Customer Segmentation
-**Python · ML · Data Analysis**
-
-Wholesale customer segmentation project for discovering meaningful customer groups.
-
-<a href="https://github.com/rudra5090/Wholesale-customer-segmention">↗ View project</a>
-
-</td>
-<td width="50%">
-
-### 🧩 LeetCode Journey
-**Python · DSA · Algorithms**
-
-A growing collection of solutions and practice focused on stronger problem-solving skills.
-
-<a href="https://github.com/rudra5090/leetcode-solutions">↗ View solutions</a>
-
-</td>
-</tr>
-</table>
+| Project | Focus |
+|---|---|
+| [Predictive Maintenance](https://github.com/rudra5090/predictive-maintenance-system) | ML + Flask + industrial prediction |
+| [Customer Segmentation](https://github.com/rudra5090/Wholesale-customer-segmention) | Data analysis + segmentation |
+| [LeetCode Solutions](https://github.com/rudra5090/leetcode-solutions) | DSA + algorithm practice |
+| [GitHub Activity Generator](https://github.com/rudra5090/github-activity-generator) | Python + Git automation + CI |
 
 ---
 
@@ -145,12 +94,24 @@ A growing collection of solutions and practice focused on stronger problem-solvi
 
 ---
 
+## 🔧 Engineering Workflow
+
+I aim to make my repositories reflect how real software is maintained:
+
+**Issue → Branch → Focused Commit → Tests/Validation → Pull Request → Review → Merge**
+
+Recent examples:
+
+- [GitHub Activity Generator — PR #2](https://github.com/rudra5090/github-activity-generator/pull/2)
+- [Predictive Maintenance — PR #2](https://github.com/rudra5090/predictive-maintenance-system/pull/2)
+- [Worker Safety YOLO11 — PR #2](https://github.com/rudra5090/AI-Based-Worker-Safety-Monitoring-Using-YOLO11/pull/2)
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/rudra5090/rudra5090/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
-
 </div>
 
 ---
@@ -158,64 +119,38 @@ A growing collection of solutions and practice focused on stronger problem-solvi
 ## 📊 GitHub Dashboard
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=rudra5090&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra5090&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-
 <img src="https://streak-stats.demolab.com?user=rudra5090&theme=tokyonight&hide_border=true" width="70%" />
-
 </div>
-
----
 
 ## 📈 Build History
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra5090&theme=tokyo-night&hide_border=true&area=true&custom_title=Rudra's%20Development%20Activity" width="100%" />
-
 </div>
-
----
 
 ## 🏆 Achievements
 
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=rudra5090&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
-
 </div>
 
 ---
 
-## 🗺️ What's Next?
+## 🗺️ Current Direction
 
-| Area | Current direction |
+| Area | Direction |
 |---|---|
-| 🤖 AI/ML | Build more practical ML systems |
-| 👁️ Computer Vision | Improve real-time detection projects |
-| ☁️ Cloud | Strengthen AWS + Google Cloud skills |
-| 🌐 Full-Stack | Build production-style MERN applications |
-| 🧠 DSA | Consistent LeetCode practice |
-| 🚀 Engineering | Learn system design and better architecture |
-
----
-
-## 📌 More Projects
-
-- ⚙️ [GitHub Activity Generator](https://github.com/rudra5090/github-activity-generator)
-- 📚 [Awesome LeetCode Resources](https://github.com/rudra5090/awesome-leetcode-resources)
-- 🧠 [Wholesale Customer Segmentation](https://github.com/rudra5090/Wholesale-customer-segmention)
-- 🔩 [Predictive Maintenance System](https://github.com/rudra5090/predictive-maintenance-system)
-
----
+| 🤖 AI/ML | Practical ML systems |
+| 👁️ Computer Vision | Real-time detection |
+| ☁️ Cloud | AWS + Google Cloud |
+| 🌐 Full-Stack | Production-style MERN apps |
+| 🧠 DSA | Consistent problem solving |
+| 🚀 Engineering | Testing, CI/CD, architecture |
 
 <div align="center">
 
-### `BUILD • LEARN • DEBUG • SHIP • REPEAT`
-
-**If you find something useful here, feel free to explore my repositories.**
-
-<a href="https://github.com/rudra5090?tab=repositories"><img src="https://img.shields.io/badge/Explore%20My%20Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+### `BUILD • LEARN • DEBUG • REVIEW • SHIP • REPEAT`
 
 </div>
