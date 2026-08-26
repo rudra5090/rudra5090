@@ -127,9 +127,7 @@ Recent examples:
 ## 📈 Build History
 
 <div align="center">
-
-[![Rudra's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rudra5090&theme=github-compact&hide_border=true&area=true&days=31)](https://github.com/rudra5090)
-
+<img src="https://raw.githubusercontent.com/rudra5090/rudra5090/main/activity-graph.svg" alt="Rudra GitHub Build History" width="100%" />
 </div>
 
 ---
