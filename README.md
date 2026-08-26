@@ -111,7 +111,7 @@ Recent examples:
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/rudra5090/rudra5090/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
+<img src="https://raw.githubusercontent.com/rudra5090/rudra5090/gh-pages/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
 </div>
 
 ---
@@ -127,13 +127,13 @@ Recent examples:
 ## 📈 Build History
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra5090&theme=tokyo-night&hide_border=true&area=true&custom_title=Rudra's%20Development%20Activity" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra5090&theme=tokyo-night&hide_border=true&area=true&custom_title=Rudra%27s%20Development%20Activity" width="100%" alt="Rudra's GitHub development activity graph" />
 </div>
 
 ## 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rudra5090&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=rudra5090&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub profile achievements" />
 </div>
 
 ---
