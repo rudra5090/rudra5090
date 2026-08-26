@@ -135,7 +135,15 @@ Recent examples:
 ## 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rudra5090&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub profile achievements" />
+
+[![GitHub Profile](https://img.shields.io/badge/View_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rudra5090)
+[![Repositories](https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rudra5090?tab=repositories)
+[![Pull Requests](https://img.shields.io/badge/Pull_Requests-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rudra5090?tab=pulls)
+[![Issues](https://img.shields.io/badge/Issues-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rudra5090?tab=issues)
+
+**GitHub's native achievements are displayed on the profile page itself.**  
+This section intentionally avoids third-party trophy generators so it cannot break because of an external image service.
+
 </div>
 
 ---
