@@ -127,8 +127,12 @@ Recent examples:
 ## 📈 Build History
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra5090&theme=tokyo-night&hide_border=true&area=true&custom_title=Rudra%27s%20Development%20Activity" width="100%" alt="Rudra's GitHub development activity graph" />
+
+[![Rudra's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rudra5090&theme=github-compact&hide_border=true&area=true&days=31)](https://github.com/rudra5090)
+
 </div>
+
+---
 
 ## 🏆 Achievements
 
